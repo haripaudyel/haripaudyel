@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haripaudyel
-- 👀 I’m Laravel Expert
-- 🌱 I’m currently exploring VueJs
+- 👀 I’m Laravel and VueJs Expert
+- 🌱 I’m currently exploring React
 - 💞️ I’m looking to collaborate on Opensource Project
 - 📫 Email me for collaboration [at] haripaudel4@gmail.com
 
